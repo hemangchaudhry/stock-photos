@@ -6,8 +6,7 @@ import Photo from "./Photo"
 const clientID = `?client_id=your key`
 const mainUrl = `https://api.unsplash.com/photos/`
 const searchUrl = `https://api.unsplash.com/search/photos/`
-// secret
-//LiV1tz09nOOsn0HUcenREZi1U-Kq3yvwvwkASw6QJBY
+
 
 function App() {
   const [loading, setLoading] = useState(false)
